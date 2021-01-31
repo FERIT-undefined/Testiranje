@@ -63,7 +63,7 @@ Installation
 
 Available tests
 -----
-For testing this framework I have used [Mikronis webshop](https://www.mikronis.hr/). If you want to change testing URL's edit Inputs classes.
+For testing this framework I have used [BrzaKlopa](http://www.brzaklopa.rocks/login). If you want to change testing URL's edit Inputs classes.
  
 
 | Class Name | Description |
